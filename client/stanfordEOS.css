@@ -1,0 +1,207 @@
+#intro_body{
+	
+	padding-top:50px;
+	margin-top: 50px;
+
+}
+
+#navvy{
+    padding-right: 5%;
+    color: #820000;
+
+}
+
+#linkColor{
+	color: #820000;
+}
+
+.compatibility_table{
+    color:red;
+}
+
+#riskColorMeter{
+    height:20px;
+    
+}
+
+#boldText{
+    font-weight: bold;
+    
+}
+
+#excalc{
+    margin-top: 100px;
+}
+
+#stats_list{
+    background-color: white;
+    border-radius: 8px;
+    height:450px;
+    overflow: auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+
+
+}
+
+#redNavBarLinkText{
+    color:green;
+}
+
+
+
+
+#stats_canvas{
+    background-color: white;
+    border-radius: 8px;
+}
+
+#stats{
+   padding-top:50px;
+    margin-top: 50px; 
+}
+
+#errorWeeks{
+    color:red;
+}
+#errorDays{
+    color:red;
+}
+#errorF{
+    color:red;
+}
+#errorC{
+    color:red;
+}
+#errorRom{
+    color:red;
+}
+
+#validWeeks{
+    color:green;
+}
+#validDays{
+    color:green;
+}
+#validF{
+    color:green;
+}
+#validC{
+    color:green;
+}
+
+#exResults{
+    color: blue;
+    font-size: 125%;
+}
+
+.tableHeader{
+    font-weight:bold;
+}
+.greyrec{
+    color: #707070;
+    font-weight:bold;
+}
+.greenrec{
+    color: green;
+    font-weight: bold;
+}
+
+.yellowrec{
+    color: #FF6600;
+    font-weight: bold;
+
+}
+
+.redrec{
+    color: red;
+    font-weight: bold;
+
+}
+
+#validRom{
+    color:green;
+}
+
+body{
+	background-color: #8C1515;
+}
+#guidelinesTable{
+    font-size: 50%;
+}
+
+#calc{
+	padding-top:50px;
+	margin-top: 75px;
+}
+
+#forum{
+    padding-top:50px;
+    margin-top: 50px;
+}
+
+#form_data{
+    background-color: white;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding:30px;
+    margin-bottom: 25px;
+    border-radius:10px;
+}
+
+input { 
+	-webkit-border-radius: 10px; 
+	-moz-border-radius: 10px; 
+	border-radius: 10px; 
+}
+
+#results_round{
+    color:#3300FF;
+}
+#form_label{
+   font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+   font-size: 130%;
+}
+
+#brandColor{
+	color:#820000;
+}
+
+#exCalcResults{
+    background-color: white;
+    
+    background-color: #f2f1eb;
+    color:#2e2d29;
+    padding: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #f2f1eb;
+    border-radius: 10px;
+ 
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+    font-size: 200%;
+}
+
+
+#results{
+    background-color: #ddcf99;
+    color:black;
+    padding: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 10px;
+ 
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+    font-size: 200%;
+    
+}
+
+
+#select_label{
+   font-size: 90%;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
